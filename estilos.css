@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(220, 174, 173);
+    font-family: cursive;
+}
+#div1, #div2 {
+  float: left;
+  width: 100px;
+  height: 35px;
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid black;
+}
+h2{
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(193, 99, 83);
+}
